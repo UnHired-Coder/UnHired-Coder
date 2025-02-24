@@ -1,6 +1,6 @@
 Hey! 👋  
 
-I am **Pratyush Tiwari ** from India. ✌
+I am **Pratyush Tiwari** from India. ✌
 
 I am currently working as a Android Engineer (SDE-II) at [Cityflo](https://www.linkedin.com/company/cityflo).
 ----
