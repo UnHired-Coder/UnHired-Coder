@@ -10,8 +10,8 @@ I am currently working as a Android Engineer (SDE-II) at [Cityflo](https://www.l
 - I love Jetpack Compose, Kotlin 🫰
 - I developed intrest in programing when I got introduced to opensource projects, I was also a GSoC student with [Pitivi](https://unhired-coder.github.io/project.html)
 - I love transforming unique ideas into reality ✨
-  - Some examples - [TicTacMemo](http://tictacmemo.vercel.app) - A memory based remote multiplayer tic-tac-toe game.
-  - I love doodling - [@StickyShape](http://stickyshape.pythonanywhere.com/) - An online stickers store - buy now :).
+  - Some examples - [TicTacMemo.app](http://tictacmemo.vercel.app) - A memory based remote multiplayer tic-tac-toe game.
+  - I love doodling - [StickyShape.com](http://stickyshape.pythonanywhere.com/) - An online stickers store - buy now :).
 - Popular by handle - [@UnHired-Coder](https://unhired-coder.github.io)
 - I am also very tech-savvy, and enjoy talking tech with anyone 🧑‍💻!
 
